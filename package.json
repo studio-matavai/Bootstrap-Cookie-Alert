@@ -12,6 +12,7 @@
     "bootstrap-4",
     "cookie-alert"
   ],
+  "main": "cookiealert.js",
   "author": "Wruczek <wruczekk@gmail.com>",
   "license": "MIT",
   "bugs": {
